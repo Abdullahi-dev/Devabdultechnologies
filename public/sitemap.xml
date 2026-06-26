@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- ================= HOMEPAGE ================= -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- ================= SERVICES ================= -->
+  <!-- Main Services Page -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.90</priority>
+  </url>
+  
+  <!-- Service Sub-pages -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/custom-software-development</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/ai-machine-learning</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/web-application-development</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/mobile-app-development</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/fintech-infrastructure</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/cloud-devops</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/api-development</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/services/ui-ux-product-design</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ================= SOLUTIONS ================= -->
+  <!-- Main Solutions Page -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.90</priority>
+  </url>
+  
+  <!-- Solution Sub-pages -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/healthcare-technology</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/fintech-platforms</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/government-digital-systems</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/education-platforms</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/logistics-platforms</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/solutions/startup-mvp-development</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ================= TECHNOLOGY ================= -->
+  <!-- Main Technology Page -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.90</priority>
+  </url>
+  
+  <!-- Technology Sub-pages -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology/technology-stack</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology/ai-capabilities</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology/cloud-infrastructure</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology/security-architecture</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/technology/development-process</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- ================= CASE STUDIES ================= -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/case-studies</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.85</priority>
+  </url>
+
+  <!-- ================= RESOURCES ================= -->
+  <!-- Main Resources Page -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/resources</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- Resource Sub-pages -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/resources?category=Blog</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/insights</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/resources?category=Technology%20Guides</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/white-papers</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.75</priority>
+  </url>
+
+  <!-- ================= COMPANY ================= -->
+  <!-- Main Company Page -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/company</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- Company Sub-pages -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/company/about</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/company/leadership</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/company/careers</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/company/press</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+  <!-- ================= CONTACT ================= -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/contact</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.90</priority>
+  </url>
+
+  <!-- ================= LEGAL PAGES ================= -->
+  <url>
+    <loc>https://devabdultechnologies.com.ng/legal/privacy-policy</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/legal/terms-of-service</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.40</priority>
+  </url>
+  <url>
+    <loc>https://devabdultechnologies.com.ng/legal/cookie-policy</loc>
+    <lastmod>2026-06-26</lastmod>
+    <priority>0.40</priority>
+  </url>
+
+</urlset>
